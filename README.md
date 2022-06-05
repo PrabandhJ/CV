@@ -28,7 +28,7 @@
 <!--table ends here-->
 <hr>
 
-<h3>Acadamics Details<h3>
+<h3>Acadamics Details</h3>
 <hr>
 <table border = 1>
 <tr>
@@ -69,7 +69,7 @@
 </table>
 <hr>
 
-<h3>Scholastic Achivements<h3><hr>
+<h3>Scholastic Achivements</h3><hr>
 <table>
 <tr>
 	<td>
@@ -92,7 +92,7 @@
 </tr>
 </table>
 <hr>
-<h3>Acadamics Projects<h3>
+<h3>Acadamics Projects</h3>
 <hr>
 <table>
 <tr>
@@ -117,7 +117,7 @@
 <ul><li>Reguralry practicing on <a href = "https://leetcode.com/" >leetcode</a> (a online coding platform).</li></ul>
 
 <hr>
-<h3>Platform, Langauge, Technologies & Tools Worked<h3>
+<h3>Platform, Langauge, Technologies & Tools Worked</h3>
 <hr>
 <table>
 <tr>
@@ -219,7 +219,7 @@ Team Leader
 </tr>
 </table>
 <hr>
-<h3>Extracurricular Activities<h3>
+<h3>Extracurricular Activities</h3>
 <hr>
 <table>
 <tr>
