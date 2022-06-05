@@ -5,7 +5,7 @@
 <body>
 <table>
 <tr>
-	<td><img width = 200 height = 200 src = "C:\Users\Prabandh Jain\Desktop\P.png"></td>
+	<td><img width = 200 height = 200 src = "P.png"></td>
 	<td><h2>&emsp;Prabandh Jain</em></h2>
 		<table>
 			<tr><td>&emsp;MCA-Ist Year</td>
