@@ -17,7 +17,7 @@
 			<tr>
 			<td>&emsp;Email Id: prabandh.jain.2707@gmail.com</td>
 			<td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mobile : +91 7869341955</td>
-			</tr>
+			</tr></table>
 
 		
 	    
